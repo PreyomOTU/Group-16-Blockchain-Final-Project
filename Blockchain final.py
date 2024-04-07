@@ -1,6 +1,6 @@
 '''
 Ali Shaikh - 100791709
-Kobi Serran - 100778822
+Kobi Williams - 100778822
 Preyom Choudhury - 100783615
 Codes on canvas was used as reference
 '''
